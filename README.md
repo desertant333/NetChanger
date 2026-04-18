@@ -11,3 +11,10 @@ Can change users password, if possible
 
 # Authors
 0xTeam - team of teenagers, that creating stuff like utilities and malwares.
+
+List of developers;
+Mika - [Profile](https://github.com/mikayil0910-prog)
+
+Spamton - [ no Github profile ]
+
+Dooroperator357 - [Profile](https://github.com/desertant333)
